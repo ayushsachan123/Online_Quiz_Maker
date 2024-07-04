@@ -9,7 +9,7 @@ app.use((req, res, next) => {
   
   app.use(
     cors({
-      origin: ["http://127.0.0.1:3000", "http://localhost:3000"],
+      origin: ["https://online-quiz-maker-git-main-ayushsachan123s-projects.vercel.app", "http://127.0.0.1:3000", "http://localhost:3000"],
       methods: "GET, POST, PATCH, DELETE, PUT",
       credentials: true,
     })

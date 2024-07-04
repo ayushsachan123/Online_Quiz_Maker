@@ -52,6 +52,13 @@ function RegisterPage() {
             <Link to="/login">
               Already have an account? Login Here
             </Link>
+            <p>
+        <b>For admin access-</b>
+        <br/>
+        <b>email-</b> admin@gmail.com
+        <br/>
+        <b>password-</b> admin
+        </p>
             </div>
            </Form>
            </div>
